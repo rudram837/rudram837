@@ -1,10 +1,9 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-<h1 align="center">
+<h1 text-align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=100&color=9892F7&background=11111100&random=false&width=435&lines=Hi👋%2C++I'm+Rudra+Maurya;Nice+to+meet+you🤝" alt="Typing SVG" />
   </a>
 </h1>
 <h3 align="center">Computer Science Student at University of Mumbai</h3>
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudram837&label=Profile%20views&color=0e75b6&style=flat" alt="rudram837" /> </p>
 
