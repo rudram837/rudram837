@@ -1,5 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=100&color=9892F7&background=11111100&random=false&width=435&lines=Hi👋%2C++I'm+Rudra+Maurya;Nice+to+meet+you🤝" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=100&color=9892F7&background=11111100&random=false&width=435&lines=Hi👋%2C++I'm+Rudra+Maurya;Nice+to+meet+you🤝" alt="Typing SVG" />
   </a>
 </h1>
 <h3 align="center">Computer Science Student at University of Mumbai</h3>
