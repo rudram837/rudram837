@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudram837&label=Profile%20views&color=0e75b6&style=flat" alt="rudram837" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://rudram837.github.io/portfolio_2025/](https://rudram837.github.io/portfolio_2025/)
 
