@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://rudram837.github.io/portfolio_2025/](https://rudram837.github.io/portfolio_2025/)
+- 👨‍💻 All of my projects are available at [https://rudram837.github.io/portfolio_2025/](https://rudram837.github.io/portfolio/)
 
 - 📫 How to reach me **rudramaurya313@gmail.com**
 
