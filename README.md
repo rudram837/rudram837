@@ -14,7 +14,7 @@
 
 📫 How to reach me **rudramaurya313@gmail.com**
 
-📄 Know about my experiences [Resume](https://github.com/rudram837/resume/blob/main/Rudra%20Maurya%20Resume.pdf)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pYqEHklXd1yua5nAYPstko1slubft78O/view?usp=drive_link)
 
 ⚡ Fun fact **I think I am funny 😂**
 
