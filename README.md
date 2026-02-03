@@ -8,7 +8,7 @@
 # 💫 About Me:
 🔭 I'm currently working on Android
 
-🌱 I’m currently learning **Networking**
+🌱 I’m currently learning **Jetpack Compose**
 
 👨‍💻 All of my projects are available at [Portfolio](https://rudram837.github.io/portfolio/)
 
